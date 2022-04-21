@@ -1,0 +1,86 @@
+D:\TH MON HK4\HQTCSDL\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.GUI.QuanLyKhoa.resources
+D:\TH MON HK4\HQTCSDL\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.Properties.Resources.resources
+D:\TH MON HK4\HQTCSDL\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.csproj.GenerateResource.cache
+D:\TH MON HK4\HQTCSDL\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.csproj.CoreCompileInputs.cache
+D:\TH MON HK4\HQTCSDL\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\QuanLyDiemSinhVien.exe.config
+D:\TH MON HK4\HQTCSDL\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\QuanLyDiemSinhVien.exe
+D:\TH MON HK4\HQTCSDL\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\QuanLyDiemSinhVien.pdb
+D:\TH MON HK4\HQTCSDL\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.exe
+D:\TH MON HK4\HQTCSDL\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.pdb
+D:\TH MON HK4\HQTCSDL\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.GUI.QuanLySinhVien.resources
+D:\TH MON HK4\HQTCSDL\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.csprojAssemblyReference.cache
+D:\TH MON HK4\HQTCSDL\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.GUI.QuanLyLop.resources
+D:\TH MON HK4\HQTCSDL\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.GUI.Login.resources
+D:\HQT\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.csprojAssemblyReference.cache
+D:\HQT\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.GUI.Login.resources
+D:\HQT\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.GUI.QuanLyBangDiem.resources
+D:\HQT\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.GUI.QuanLyKhoa.resources
+D:\HQT\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.GUI.QuanLyLop.resources
+D:\HQT\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.GUI.QuanLyMonHoc.resources
+D:\HQT\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.GUI.QuanLySinhVien.resources
+D:\HQT\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.Properties.Resources.resources
+D:\HQT\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.csproj.GenerateResource.cache
+D:\HQT\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.csproj.CoreCompileInputs.cache
+D:\HQT\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.exe
+D:\HQT\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.pdb
+D:\HQT\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\QuanLyDiemSinhVien.exe.config
+D:\HQT\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\QuanLyDiemSinhVien.exe
+D:\HQT\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\QuanLyDiemSinhVien.pdb
+D:\HQT\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.GUI.Menu.resources
+D:\HQT\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.GUI.QuanLyMonHoc_Lop.resources
+D:\HQT\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\EntityFramework.dll
+D:\HQT\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\EntityFramework.xml
+D:\HQT\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.csproj.CopyComplete
+D:\HQT\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.GUI.Thongke.resources
+D:\HQT\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.GUI.ThongkeSVtheomonhoc.resources
+D:\HQT\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.GUI.ThongkeDTBsinhvientheolop.resources
+D:\HQT\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.GUI.TopSVtheoHockivaNienKhoa.resources
+D:\Dowloand\HQT\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\QuanLyDiemSinhVien.exe.config
+D:\Dowloand\HQT\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\QuanLyDiemSinhVien.exe
+D:\Dowloand\HQT\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\QuanLyDiemSinhVien.pdb
+D:\Dowloand\HQT\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\EntityFramework.dll
+D:\Dowloand\HQT\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\EntityFramework.xml
+D:\Dowloand\HQT\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.csprojAssemblyReference.cache
+D:\Dowloand\HQT\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.GUI.Login.resources
+D:\Dowloand\HQT\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.GUI.Menu.resources
+D:\Dowloand\HQT\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.GUI.QuanLyBangDiem.resources
+D:\Dowloand\HQT\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.GUI.QuanLyKhoa.resources
+D:\Dowloand\HQT\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.GUI.QuanLyLop.resources
+D:\Dowloand\HQT\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.GUI.QuanLyMonHoc.resources
+D:\Dowloand\HQT\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.GUI.QuanLyMonHoc_Lop.resources
+D:\Dowloand\HQT\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.GUI.QuanLySinhVien.resources
+D:\Dowloand\HQT\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.GUI.Thongke.resources
+D:\Dowloand\HQT\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.GUI.ThongkeDTBsinhvientheolop.resources
+D:\Dowloand\HQT\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.GUI.ThongkeSVtheomonhoc.resources
+D:\Dowloand\HQT\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.GUI.TopSVtheoHockivaNienKhoa.resources
+D:\Dowloand\HQT\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.Properties.Resources.resources
+D:\Dowloand\HQT\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.csproj.GenerateResource.cache
+D:\Dowloand\HQT\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.csproj.CoreCompileInputs.cache
+D:\Dowloand\HQT\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.csproj.CopyComplete
+D:\Dowloand\HQT\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.exe
+D:\Dowloand\HQT\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.pdb
+D:\HQT\HQT\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\QuanLyDiemSinhVien.exe.config
+D:\HQT\HQT\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\QuanLyDiemSinhVien.exe
+D:\HQT\HQT\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\QuanLyDiemSinhVien.pdb
+D:\HQT\HQT\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\EntityFramework.dll
+D:\HQT\HQT\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\EntityFramework.xml
+D:\HQT\HQT\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.csprojAssemblyReference.cache
+D:\HQT\HQT\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.GUI.Login.resources
+D:\HQT\HQT\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.GUI.Menu.resources
+D:\HQT\HQT\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.GUI.QuanLyBangDiem.resources
+D:\HQT\HQT\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.GUI.QuanLyKhoa.resources
+D:\HQT\HQT\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.GUI.QuanLyLop.resources
+D:\HQT\HQT\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.GUI.QuanLyMonHoc.resources
+D:\HQT\HQT\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.GUI.QuanLyMonHoc_Lop.resources
+D:\HQT\HQT\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.GUI.QuanLySinhVien.resources
+D:\HQT\HQT\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.GUI.Thongke.resources
+D:\HQT\HQT\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.GUI.ThongkeDTBsinhvientheolop.resources
+D:\HQT\HQT\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.GUI.ThongkeSVtheomonhoc.resources
+D:\HQT\HQT\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.GUI.TopSVtheoHockivaNienKhoa.resources
+D:\HQT\HQT\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.Properties.Resources.resources
+D:\HQT\HQT\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.csproj.GenerateResource.cache
+D:\HQT\HQT\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.csproj.CoreCompileInputs.cache
+D:\HQT\HQT\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.csproj.CopyComplete
+D:\HQT\HQT\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.exe
+D:\HQT\HQT\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.pdb
+D:\HQT\HQT\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.GUI.BackupRestore.resources

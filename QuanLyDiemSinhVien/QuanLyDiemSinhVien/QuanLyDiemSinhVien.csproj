@@ -1,0 +1,275 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6EFD02D8-75A2-4827-93C7-EA2905630B2F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>QuanLyDiemSinhVien</RootNamespace>
+    <AssemblyName>QuanLyDiemSinhVien</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.5.0.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="GUI\BackupRestore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\BackupRestore.Designer.cs">
+      <DependentUpon>BackupRestore.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\ThongkeDTBsinhvientheolop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\ThongkeDTBsinhvientheolop.Designer.cs">
+      <DependentUpon>ThongkeDTBsinhvientheolop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\QuanLyBangDiem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\QuanLyBangDiem.Designer.cs">
+      <DependentUpon>QuanLyBangDiem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\QuanLyKhoa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\QuanLyKhoa.Designer.cs">
+      <DependentUpon>QuanLyKhoa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\QuanLyLop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\QuanLyLop.Designer.cs">
+      <DependentUpon>QuanLyLop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\QuanLyMonHoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\QuanLyMonHoc.Designer.cs">
+      <DependentUpon>QuanLyMonHoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\QuanLyMonHoc_Lop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\QuanLyMonHoc_Lop.Designer.cs">
+      <DependentUpon>QuanLyMonHoc_Lop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\QuanLySinhVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\QuanLySinhVien.Designer.cs">
+      <DependentUpon>QuanLySinhVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Thongke.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Thongke.Designer.cs">
+      <DependentUpon>Thongke.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\ThongkeSVtheomonhoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\ThongkeSVtheomonhoc.Designer.cs">
+      <DependentUpon>ThongkeSVtheomonhoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\TopSVtheoHockivaNienKhoa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\TopSVtheoHockivaNienKhoa.Designer.cs">
+      <DependentUpon>TopSVtheoHockivaNienKhoa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QLSVDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLSVDataSet.xsd</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="GUI\BackupRestore.resx">
+      <DependentUpon>BackupRestore.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\QuanLyBangDiem.resx">
+      <DependentUpon>QuanLyBangDiem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\QuanLyKhoa.resx">
+      <DependentUpon>QuanLyKhoa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\QuanLyLop.resx">
+      <DependentUpon>QuanLyLop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\QuanLyMonHoc.resx">
+      <DependentUpon>QuanLyMonHoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\QuanLyMonHoc_Lop.resx">
+      <DependentUpon>QuanLyMonHoc_Lop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\QuanLySinhVien.resx">
+      <DependentUpon>QuanLySinhVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Thongke.resx">
+      <DependentUpon>Thongke.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\ThongkeDTBsinhvientheolop.resx">
+      <DependentUpon>ThongkeDTBsinhvientheolop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\ThongkeSVtheomonhoc.resx">
+      <DependentUpon>ThongkeSVtheomonhoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\TopSVtheoHockivaNienKhoa.resx">
+      <DependentUpon>TopSVtheoHockivaNienKhoa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="QLSVDataSet.xsc">
+      <DependentUpon>QLSVDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="QLSVDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLSVDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLSVDataSet.xss">
+      <DependentUpon>QLSVDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\pexels-ann-h-1762851.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pexels-pixabay-210205.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pexels-roberto-nickson-2486168.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\90df22ab443662d632838fd82f6ea38b2cba025a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pexels-scott-webb-311458.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pexels-scott-webb-3114581.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pexels-mike-424154.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\290-2901433_give-your-kids-the-smart-class-opportunity-lecturer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\465-4651857_hiring-manager-icon-png-transparent-png.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pexels-min-an-1353938.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pexels-pixabay-40896.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pexels-mike-4241541.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pexels-mike-4241542.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\account_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\combo_chart_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\account_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\istockphoto-186912580-1024x1024.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
